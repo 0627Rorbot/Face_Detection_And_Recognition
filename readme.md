@@ -1,0 +1,1 @@
+This is the projec that detect and recognize of the person through image or video.
